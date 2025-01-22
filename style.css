@@ -116,16 +116,16 @@ body{
 
 
 .skill_red{
-  background-color: hsl(var(--clr-lightRed), 10%);
+  background-color: hsl(var(--clr-lightRed), 5%);
 }
 .skill_yellow{
-  background-color: hsl(var(--clr-orangeyYellow),10%);
+  background-color: hsl(var(--clr-orangeyYellow),5%);
 }
 .skill_green{
-  background-color: hsl(var(--clr-greenTeal),10%);
+  background-color: hsl(var(--clr-greenTeal),5%);
 }
 .skill_blue{
-  background-color: hsl(var(--clr-cobaltBlue),10%);
+  background-color: hsl(var(--clr-cobaltBlue),5%);
   margin-bottom: calc(2.563rem - 1rem);
 }
 .btn{
