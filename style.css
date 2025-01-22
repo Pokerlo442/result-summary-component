@@ -75,6 +75,7 @@ body{
   background-color: white;
   border-radius: 32px;  
   margin-inline: 1rem;
+  box-shadow: 0 10px 50px  hsla(224, 82%, 58%, 15%);
 }
 
 .grid_item{
@@ -133,7 +134,14 @@ body{
   font-size: 18px;
   font-weight: bold;
   color: white;
-  padding: 1rem 2rem;}
+  padding: 1rem 2rem;
+  cursor: pointer;
+  border: 0;
+}
+.btn:hover, .btn:focus{
+  background-image: linear-gradient(var(--gr-lightSlateBlue)0%,hsl(252,100%,63%) 0%, var(--gr-lightRoyalBlue)100%);  
+}
+
 /* ////////// */
 /*    Text    */
 /* ////////// */
