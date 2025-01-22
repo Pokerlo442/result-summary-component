@@ -75,7 +75,7 @@ body{
   background-color: white;
   border-radius: 32px;  
   margin-inline: 1rem;
-  box-shadow: 0 10px 50px  hsla(224, 82%, 58%, 15%);
+  box-shadow: 0 50px 50px -25px  hsla(224, 82%, 58%, 15%);
 }
 
 .grid_item{
